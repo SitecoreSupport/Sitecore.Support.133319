@@ -342,7 +342,7 @@
 
       document.body.appendChild(popup);
       var width = popup.offsetWidth;
-      var height = popup.offsetWidth;
+      var height = popup.offsetHeight;
 
       var ctl = null;
       var x = evt.clientX != null ? evt.clientX : 0;

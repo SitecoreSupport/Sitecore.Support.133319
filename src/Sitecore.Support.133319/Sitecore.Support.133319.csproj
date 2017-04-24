@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\82u2.pubxml" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Sitecore\Shell\Applications\Modules\Web Forms for Marketers\Dialogs\Field types\ListItemsEditor.xaml.xml" />
     <Content Include="Sitecore\Shell\Applications\Modules\Web Forms for Marketers\script\Sitecore.Forms.PopupMenu.js" />
